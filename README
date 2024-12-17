@@ -1,0 +1,14 @@
+# Celon: AI Agent Bridging Reality and Blockchain
+
+Celon is an AI agent designed to connect real-world data to blockchain systems, enabling seamless interactions between reality and the digital frontier.
+
+## Features
+- Fetch real-world data (APIs, news, events)
+- Interact with blockchain networks
+- Build real-time insights for decentralized applications
+
+## Installation
+```bash
+git clone https://github.com/username/celon-ai.git
+cd celon-ai
+pip install -r requirements.txt
