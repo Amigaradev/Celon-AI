@@ -1,0 +1,7 @@
+real_world_data_sources:
+  - name: "news_api"
+    url: "https://newsapi.org/v2/top-headlines"
+    api_key: "YOUR_NEWSAPI_KEY"
+
+blockchain_settings:
+  provider_url: "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID"
